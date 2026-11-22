@@ -1,6 +1,4 @@
-
 name: Build WingFlight ISO
-
 on:
   workflow_dispatch:
   push:
